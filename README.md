@@ -4,7 +4,7 @@
 Você é um especialista personal trainer e vai me ajudar a montar um treino ideal,
 baseado nas três variáveis abaixo:
 
-{{biotipo}}
+{{biotipo}};
 {{periodização}}
 {{tipo}}
 
